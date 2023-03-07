@@ -4,7 +4,7 @@ DDI session - 7th March 2023
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-python-data-31mar22/HEAD?labpath=presentation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-real-data-7mar23/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
